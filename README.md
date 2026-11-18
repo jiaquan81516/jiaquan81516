@@ -1,8 +1,7 @@
 # Hi, I'm Jia Quan 👋
 
-I'm a Year 1 Information Systems student at SMU, interested in software development, data analytics, and building practical digital solutions.
+I'm a Year 1 Information Systems student at SMU, interested in product management, data analytics, and building practical digital solutions.
 
-I enjoy discovering real-world problems and turning them into useful, intuitive products. Currently, I'm building projects across full-stack development, dashboards, and analytics.
 
 ## What I'm working on
 - Building **HiremeLeh**, a full-stack internship platform for SMU students
